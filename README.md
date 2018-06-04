@@ -1,4 +1,4 @@
-###No, I will not write you a palindrome tester
+# No, I will not write you a palindrome tester
 
 For better or worse, this question seems to come up all the time for software engineering roles. You talk to a recruiter and get screened a little on background and desired salary. Next up, you talk to someone over the phone and then you screen share and do some bullshit &#34;programming exercise&#34;, like write code that can detect if it received a palindrome.  
 
